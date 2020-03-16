@@ -7,10 +7,10 @@ Ukoliko se kod otvaranja projekta u Unity-u pojave errori i warnings vezani za T
 potrebno je obrisati cache od tog dodatka, nakon toga se sve normalno builda i radi bez ikakvih problema
 
 potrebno je obrisati ovu mapu: com.unity.test-framework@1.1.11<br/>
-Ta mapa se nalazi na putu: Eglas_zadatak\Library\PackageCache
+Ta mapa se nalazi na putu: Eglas_zadatak1\Library\PackageCache
 
 U mapi Eglas_zadatak nalazi se cijeli projekt + exe datoteka u mapi: Build_PC_Mac_Linux
-Radi bržeg snalaženja, mapa sa svime potrebnime za pokrenuti igru, uključujući .exe file nalazi se i izvan mape u kojoj se nalazi projekt.
+Radi bržeg snalaženja, mapa sa svime potrebnime za pokrenuti igru, uključujući .exe file nalazi se i izvan mape u kojoj se nalazi projekt. U mapi u kojoj se nalazi projekt se za svaki slučaj nalaze svi paketi asset-ova sa svim datotekama (kako je originalno skinuto).
 
 VEZANO ZA IGRU:
 Kontrole za igru:<br/>
