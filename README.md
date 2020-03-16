@@ -35,3 +35,6 @@ Na većini isprobanih laptopa/računala, sve radi normalno, međutim na jednom l
 zec može prolaziti kroz ogradu/travu i nema animacije skakanja. Nisam uspjela pronaći razlog tog problema 
 s obzirom da je na svim uređajima gdje je isprobana igra bio Windows 10, također isprobano je i sa zippanom
 i unzippanom mapom u kojoj se sve nalazi. No nadam se da se kod Vas neće pojaviti navedeni problem.
+
+P.S. Za svaki slučaj cijeli projekt se nalazi i na mom driveu, tome možete pristupiti na slijedećem linku:
+https://drive.google.com/open?id=1_Ke9gkeRRW9KzuFazuFlRRANsJWjXnlB
