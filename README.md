@@ -10,7 +10,7 @@ potrebno je obrisati ovu mapu: com.unity.test-framework@1.1.11<br/>
 Ta mapa se nalazi na putu: Eglas_zadatak1\Library\PackageCache
 
 U mapi Eglas_zadatak nalazi se cijeli projekt
-U mapi Build_PC_Mac_Linux nalazi se sve potrebno za pokrenuti igru, ostale mape vezane su uz projekt.
+#### U mapi Build_PC_Mac_Linux nalazi se sve potrebno za pokrenuti igru, ostale mape vezane su uz projekt.
 
 VEZANO ZA IGRU:
 Kontrole za igru:<br/>
