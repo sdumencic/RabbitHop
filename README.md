@@ -1,4 +1,4 @@
-# Eglas_zadatak1
+# RabbitHop
 
 Ukoliko se kod otvaranja projekta u Unity-u pojave errori i warnings vezani za TextMeshPro,
 potrebno je obrisati cache od tog dodatka, nakon toga se sve normalno builda i radi bez ikakvih problema
