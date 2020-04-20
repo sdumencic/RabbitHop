@@ -6,8 +6,6 @@ potrebno je obrisati cache od tog dodatka, nakon toga se sve normalno builda i r
 potrebno je obrisati ovu mapu: com.unity.test-framework@1.1.11<br/>
 Ta mapa se nalazi na putu: RabbitHop\Library\PackageCache
 
-#### U mapi Build_PC_Mac_Linux nalazi se sve potrebno za pokrenuti igru.
-
 VEZANO ZA IGRU:
 Kontrole za igru:<br/>
 kretanje: <br/>
