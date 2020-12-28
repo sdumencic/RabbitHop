@@ -23,4 +23,10 @@ Pravila: <br/>
 	sakupljanje gljiva - poveća zeca, ali nosi 100 bodova<br/>
 	sakupljanje salate(listovi) - smanji zeca, nosi 50 bodova<br/>
 	sakupljanje mrkve i kupusa - 50 bodova<br/>
-	ako se dotakne pčelu, igra je gotova, vraća se na start menu<br/>
+	ako se dotakne pčelu, igra je gotova, vraća se na start menu
+
+
+<img src="https://i.ibb.co/7ydJdXM/201228-rabbithop-menu.png" alt="201228-rabbithop-menu">
+<img src="https://i.ibb.co/4NNQtWF/201228-rabbithop-pravila.png" alt="201228-rabbithop-pravila">
+<img src="https://i.ibb.co/n6MFpcw/201228-rabbithop-postavke.png" alt="201228-rabbithop-postavke">
+<img src="https://i.ibb.co/ZJf5Ph1/201228-rabbithop-game.png" alt="201228-rabbithop-game">
