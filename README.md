@@ -26,7 +26,7 @@ Pravila: <br/>
 	ako se dotakne pčelu, igra je gotova, vraća se na start menu
 
 
-<img src="https://i.ibb.co/7ydJdXM/201228-rabbithop-menu.png" alt="201228-rabbithop-menu">
-<img src="https://i.ibb.co/4NNQtWF/201228-rabbithop-pravila.png" alt="201228-rabbithop-pravila">
-<img src="https://i.ibb.co/n6MFpcw/201228-rabbithop-postavke.png" alt="201228-rabbithop-postavke">
-<img src="https://i.ibb.co/ZJf5Ph1/201228-rabbithop-game.png" alt="201228-rabbithop-game">
+<img src="images/1.png" alt="201228-rabbithop-menu">
+<img src="images/2.png" alt="201228-rabbithop-pravila">
+<img src="images/3.png" alt="201228-rabbithop-postavke">
+<img src="images/4.png" alt="201228-rabbithop-game">
